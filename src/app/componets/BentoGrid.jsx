@@ -13,7 +13,7 @@ const BentoGrid = () => {
     <>
       <div className= "rounded-md p-4 dark:bg-neutral-800 bg-neutral-200 xl:col-span-2 xl:row-span-2 md:col-span-4 md:row-span-3  col-span-4 row-span-3 dark:hover:bg-neutral-700 hover:bg-neutral-400">
         <p className='text-center font-bold text-2xl md:mb-12 xl:mb-4'>Sobre mí</p>
-        <p className=" text-lg">Desarrollador web con 1 año de experiencia. Formación como ingeniero en sistemas computacionales. Dominio de HTML, CSS y JavaScript para crear y estilizar interfaces de usuario. Conocimientos en lenguajes backend como PHP, además de MySQL  </p>
+        <p className=" text-lg">Desarrollador web con 1 año de experiencia. Formación como ingeniero en sistemas computacionales. Dominio de HTML, CSS y JavaScript para crear y estilizar interfaces de usuario. </p>
       </div>
       <div className= "rounded-md p-2 dark:bg-neutral-800 bg-neutral-200 xl:col-span-2 xl:row-span-2 md:col-span-4 md:row-span-3  col-span-4 row-span-3 dark:hover:bg-neutral-700 hover:bg-neutral-400">
         <p className='text-center font-bold text-2xl md:mb-10 xl:mb-4'>Habilidades</p>
